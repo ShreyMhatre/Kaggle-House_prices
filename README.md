@@ -6,7 +6,7 @@ This repository contains my solution attempt for the [Kaggle House Prices Compet
 
 ##  Learning Reference
 
-This project was based on the YouTube tutorial by **Computer Science**:  
+This project was based on the YouTube tutorial by **freeCodeCamp.org**:  
 🔗 [Kaggle House Prices - Python Data Science Project | Full Tutorial](https://www.youtube.com/watch?v=BV03sQ0srcU)
 
 I used this tutorial as a guide to learn data preprocessing, feature encoding, and model pipeline building.  
@@ -48,9 +48,8 @@ You can download them from the [competition page](https://www.kaggle.com/c/house
 
 ##  Credits
 
-- Tutorial by [Computer Science YouTube Channel](https://www.youtube.com/@ComputerScienceAI)
+- Tutorial by [freeCodeCamp.org YouTube Channel](https://www.youtube.com/@freecodecamp)
 - Kaggle competition dataset and problem statement
-- Community discussions and notebooks for inspiration
 
 ---
 
